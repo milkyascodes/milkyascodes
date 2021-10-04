@@ -21,7 +21,7 @@
 - ✍🏻 &nbsp; HTML, CSS and Javascript
 - 🎓 &nbsp; Javascript Programming Language
 - ⚛ &nbsp; Learning React Programming Language
-- 👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful. -->
+- 👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 - ⚡ &nbsp; Fun fact: First solve the problem, then write the code :heart:.
 - ✍️ &nbsp; Pursuing a carrier in Web Development
 
