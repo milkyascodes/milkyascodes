@@ -25,7 +25,7 @@
 - ⚡ &nbsp; Fun fact: First solve the problem, then write the code :heart:.
 - ✍️ &nbsp; Pursuing a carrier in Web Development
 
-<hr></hr>
+<br/>
 
 <h3> 🛠 &nbsp; Tech Stack</h3>
 
@@ -39,7 +39,7 @@
 </p>
 
 
-<hr></hr>
+<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
