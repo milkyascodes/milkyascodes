@@ -47,7 +47,7 @@
 
 <a target="_blank" href="mailto:milkyas.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-milkyas.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <br/>
- 
-<a target="_blank" href="https://www.instagram.com/miki_dev/" target="_blank" ><img alt="Instagram" src="https://img.shields.io/badge/instagram-miki_dev-blue?style=flat-square&logo=instagram"></a>
+<!--  
+<a target="_blank" href="https://www.instagram.com/miki_dev/" target="_blank" ><img alt="Instagram" src="https://img.shields.io/badge/instagram-miki_dev-blue?style=flat-square&logo=instagram"></a> -->
  
 
